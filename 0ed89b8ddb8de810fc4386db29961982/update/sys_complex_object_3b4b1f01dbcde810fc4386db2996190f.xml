@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update sys_domain="global" table="sys_complex_object">
+    <sys_complex_object action="INSERT_OR_UPDATE">
+        <label/>
+        <name>OrgEmailBody</name>
+        <namespace>BitlyAPI400</namespace>
+        <scope_name>0ed89b8ddb8de810fc4386db29961982</scope_name>
+        <serialized_content>{"BitlyAPI400:OrgEmailBody":{"org_guid":"String","login":"String","email":"String"}}</serialized_content>
+        <sys_class_name>sys_complex_object</sys_class_name>
+        <sys_created_by>chuck.tomasi</sys_created_by>
+        <sys_created_on>2020-12-11 14:55:39</sys_created_on>
+        <sys_customer_update>false</sys_customer_update>
+        <sys_domain>global</sys_domain>
+        <sys_id>3b4b1f01dbcde810fc4386db2996190f</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>OrgEmailBody</sys_name>
+        <sys_overrides/>
+        <sys_package display_value="Bitly Spoke" source="x_snc_bitly_spoke">0ed89b8ddb8de810fc4386db29961982</sys_package>
+        <sys_policy/>
+        <sys_replace_on_upgrade>false</sys_replace_on_upgrade>
+        <sys_scope display_value="Bitly Spoke">0ed89b8ddb8de810fc4386db29961982</sys_scope>
+        <sys_update_name>sys_complex_object_3b4b1f01dbcde810fc4386db2996190f</sys_update_name>
+        <sys_updated_by>chuck.tomasi</sys_updated_by>
+        <sys_updated_on>2020-12-11 14:55:39</sys_updated_on>
+        <type>complex_object_schema</type>
+    </sys_complex_object>
+</record_update>
